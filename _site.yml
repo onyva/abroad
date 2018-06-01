@@ -1,0 +1,9 @@
+name: "Dein Feedback"
+output_dir: "."
+navbar:
+  title: "Dein Feedback"
+  left:
+    - text: "Persönlichkeit"
+      href: index.html
+    - text: "Wohlbefinden"
+      href: about.html
